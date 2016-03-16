@@ -38,6 +38,6 @@ $ npm install
 
 ### エディタの準備
 
-Atomに[linter-textlint](https://github.com/1000ch/linter-textlint)プラグインを入れると、検出結果がAtom上の文章で直接指摘されるため、校正すべき点が分かりやすくなるようになります。
+Atomに[linter-textlint](https://github.com/1000ch/linter-textlint)プラグインを入れると、検出結果がAtom上の文章で直接指摘されるため、校正すべき点が分かりやすくなります。
 
 ![demo](demo.gif)
