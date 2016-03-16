@@ -1,0 +1,16 @@
+{
+  "name": "textlint-prh-template",
+  "version": "1.0.0",
+  "description": "A writing environment watched by textlint & prh",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nkzn/textlint-prh-template.git"
+  },
+  "author": "Yukiya Nakagawa <yn.airscope@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "textlint-rule-prh": "^2.4.1"
+  }
+}
